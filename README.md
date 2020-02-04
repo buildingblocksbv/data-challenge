@@ -16,6 +16,10 @@ promotion.csv contains information about the promotions that took place:
 - discount: Discount percentage relevant for this product
 
 products_price.csv contains information about the products
+- category: The overarching group this product falls in
 - product_id: The product identifier
+- description: Short description of the product
 - std_sales_price: The non-discounted, default price that the products are sold for
-- purchase_price: The price we buy the product for.
+- bio: 1 if the product is a biological product, 0 else
+- basic: 1 if the product is a basic (generics; no-name) good, 0 else
+- purchase_price: The price we purchase the product for.
