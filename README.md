@@ -1,16 +1,21 @@
 # Data Challenge
-This repo is intended for the 2019-2020 course Data Challenge 2.
+This repo is intended for the 2019-2020 course Data Challenge 2. 
 
-# Data
+# Data description
+There are three tables in the `data` directory.
 
-One can read the data in two manners. The preferred one is by using the (gzipped) Parquet file at `data/transactions.gzip` via (Python):
-``` 
-import pandas as pd
+transactions.csv contains all the transaction data. There are three columns:
+- week: The week number in which the transaction took place
+- transaction: The transaction number.
+- product_id: The products bought in the specified transaction
 
-path = "data/transactions.gzip"
-df = pd.read_parquet(path)
-```
 
-Alternatively, one can download the csv-data via https://we.tl/t-FksRNp4Cxn. This link will expire on February 5th, 2020. 
+promotion.csv contains information about the promotions that took place:
+- week: The week number in which the promotions were relevant
+- product_id: The product that was in discount
+- discount: Discount percentage relevant for this product
 
-The .gzip and .csv contents are equivalent.
+products_price.csv contains information about the products
+- product_id: The product identifier
+- std_sales_price: The non-discounted, default price that the products are sold for
+- purchase_price: The price we buy the product for.
