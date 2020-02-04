@@ -1,156 +1,156 @@
-category,product_id,description,size,std_sales_price,bio,basic,purchase_price
-vegetable,v_1,Komkommer,1st,0.69,0,0,0.35
-vegetable,v_2,Courgette,1st,0.75,0,0,0.37
-vegetable,v_3,SnoepVegetable tomaat,500g,1.99,0,0,0.89
-vegetable,v_4,Paprika Mix,3st,1.79,0,0,0.81
-vegetable,v_5,Paprika,1st,0.99,0,0,0.47
-vegetable,v_6,Geschrapte worteltjes,500g,1.59,0,0,0.81
-vegetable,v_7,Basis Sperziebonen,680g,0.89,0,1,0.39
-vegetable,v_8,Basis Rode kool met appel,660g,0.65,0,1,0.28
-vegetable,v_9,Basis worteltjes fijn,680g,0.89,0,1,0.43
-vegetable,v_10,Basis erwten zeer fijn,680g,0.97,0,1,0.48
-vegetable,v_11,Basis sperziebonen,800g,0.89,0,1,0.4
-vegetable,v_12,Biologische courgette,1st,1.69,1,0,0.8
-vegetable,v_13,Biologische Bloemkool,1st,2.39,1,0,1.19
-vegetable,v_14,Biologische knoflook,100g,0.69,1,0,0.32
-vegetable,v_15,Biologische pompoen,1st,2.5,1,0,1.22
-vegetable,v_16,Biologische kikkererwten,350g,0.92,1,0,0.44
-vegetable,v_17,Biologische prei,1st,0.85,1,0,0.41
-vegetable,v_18,Biologische rode kool,300g,1.29,1,0,0.63
-vegetable,v_19,Biologische cherry tomaten,250g,1.59,1,0,0.74
-vegetable,v_20,Biologische brocolli,400g,1.79,1,0,0.8
-vegetable,v_21,Boerenkool gesneden,300g,1.29,0,0,0.67
-vegetable,v_22,Spruiten,500g,0.99,0,0,0.46
-vegetable,v_23,Witlof,4st,1.49,0,0,0.72
-vegetable,v_24,Rucola,85g,1.0,0,0,0.44
-vegetable,v_25,Nasi bami Vegetable,450g,1.5,0,0,0.74
-vegetable,v_26,Snijbonen,400g,2.09,0,0,0.98
-vegetable,v_27,Buitenbeentjes puntpaprika,500g,2.49,0,0,1.17
-vegetable,v_28,Basis Maiskorrels,300g,0.75,0,1,0.35
-vegetable,v_29,Wortelen,500g,1.05,0,0,0.47
-vegetable,v_30,Pompoen stukjes,400g,2.39,0,0,1.2
-vegetable,v_31,Verse zuurkool,400g,1.39,0,0,0.68
-vegetable,v_32,Buitenbeentjes komkommer,1kg,1.99,0,0,0.98
-vegetable,v_33,Buitenbeentjes paprika,1kg,2.99,0,0,1.57
-vegetable,v_34,SnoepVegetable worteltjes,150g,0.99,0,0,0.5
-vegetable,v_35,WokVegetable thais,40g,1.99,0,0,1.0
-fruit,f_1,Mandarijenen,1kg,1.99,0,0,1.01
-fruit,f_2,Bananen,5st,1.19,0,0,0.65
-fruit,f_3,Chiquita bananen,1kg,1.95,0,0,1.02
-fruit,f_4,Pitloze witte druiven,500g,1.79,0,0,0.98
-fruit,f_5,Zoete kleine appeltjes,1kg,1.99,0,0,1.14
-fruit,f_6,Pink lady appels,4st,2.69,0,0,1.55
-fruit,f_7,Pitloze rode druiven,500g,2.19,0,0,1.16
-fruit,f_8,Elstra,1.5kg,2.49,0,0,1.26
-fruit,f_9,Conference,1kg,1.79,0,0,0.94
-fruit,f_10,Biologische banane,5st,1.09,1,0,0.54
-fruit,f_11,Citroenen,5st,1.49,0,0,0.9
-fruit,f_12,Mango,1st,1.69,0,0,1.0
-fruit,f_13,Blauwe bessen,150g,2.45,0,0,1.36
-fruit,f_14,Blauwe bassen,300g,4.25,0,0,2.4
-fruit,f_15,Aardbeien,500g,4.99,0,0,2.67
-fruit,f_16,Jonagold,1.5kg,2.09,0,0,1.2
-fruit,f_17,Mandarijnen groot,1.5kg,2.99,0,0,1.74
-fruit,f_18,Mango eetrijp,2st,2.99,0,0,1.63
-fruit,f_19,Buitenbeetjes appels,1kg,1.29,0,0,0.75
-fruit,f_20,Limoenen,3st,1.49,0,0,0.88
-fruit,f_21,Granny smith,1.5kg,3.19,0,0,1.69
-fruit,f_22,Grapefruit rood,4st,2.55,0,0,1.61
-fruit,f_23,Kanzi appelen,4st,2.89,0,0,1.54
-fruit,f_24,Basis annanasstukjes,567g,1.01,0,1,0.58
-fruit,f_25,Biologisch wilde bosbes,250g,1.94,1,0,1.14
-fruit,f_26,Biologische rozijnen,250g,2.99,1,0,1.52
-fruit,f_27,Biologische santana appelen,4st,2.69,1,0,1.38
-fruit,f_28,Pitloze druivenmix,500g,2.59,0,0,1.47
-fruit,f_29,Biologische sinaasappelen,1.5kg,3.49,1,0,1.82
-fruit,f_30,Aardbeien ontkroond,230g,2.5,0,0,1.44
-meat,m_1,Rundergehakt,500g,3.69,0,0,1.75
-meat,m_2,Gerookte spekreepjes,300g,2.39,0,0,1.09
-meat,m_3,Spekreepjes,250g,3.39,0,0,1.46
-meat,m_4,Mini gourmet hamburgers,200g,1.29,0,0,0.58
-meat,m_5,Unox Gelderse rookworst,285g,3.09,0,0,1.52
-meat,m_6,Half om half gehakt,500g,2.69,0,0,1.25
-meat,m_7,Rundergehakt,300g ,2.29,0,0,1.0
-meat,m_8,Slavinken,3stks,1.99,0,0,0.89
-meat,m_9,Mini biefstukjes,180g,2.39,0,0,1.09
-meat,m_10,Rundersoepballetjes,250g,1.99,0,0,0.87
-meat,m_11,Hamburgers,4st,2.99,0,0,1.24
-meat,m_12,Unox Gelderse rookworst,375g,3.79,0,0,1.88
-meat,m_13,Mini gourmet kipsatespiesjes,200g,2.49,0,0,1.16
-meat,m_14,Unox Magere rookworst,275g,3.39,0,0,1.59
-meat,m_15,Biologische spekreepjes,200g,2.69,1,0,1.22
-meat,m_16,Sappige gelders rookworst,250g,1.08,0,0,0.49
-meat,m_17,Biologisch rundergehakt,300g,3.19,1,0,1.4
-meat,m_18,Varkensbraadworst,4st,2.49,0,0,1.09
-meat,m_19,Runder riblap Iers,700g ,5.89,0,0,2.61
-meat,m_20,rundergehakt,900g,4.95,0,0,2.29
-meat,m_21,gerookt onbijtspek,150g,2.79,0,0,1.3
-meat,m_22,rundervinken,3st,2.47,0,0,1.1
-meat,m_23,half of half gehakt,300g,1.79,0,0,0.8
-meat,m_24,Gekruide runderchipolata,8st,3.19,0,0,1.53
-meat,m_25,Biologisch rundergehakt,500g,5.19,1,0,2.24
-meat,m_26,Mini gourmet slavink,200g,1.29,0,0,0.63
-meat,m_27,Mini gourmet varkenshaas,180g,2.39,0,0,1.07
-meat,m_28,Zigeuner gehaktschnitzel,2st,2.6,0,0,1.23
-meat,m_29,Veluwse rookworst fijn,280g,3.19,0,0,1.52
-meat,m_30,Runderbraadworst,4st,2.99,0,0,1.33
-meat,m_31,Spekblokjes,250g,3.39,0,0,1.51
-meat,m_32,biologische Hamburger,2st,2.49,1,0,1.14
-meat,m_33,Mager rundergehakt,500g,3.99,0,0,1.69
-meat,m_34,Biologische gerookte ontbijtspek,100g,2.16,1,0,0.92
-meat,m_35,Biefstuk,275g,5.14,0,0,2.16
-meat,m_36,Biologische runderchipolata,5st,2.89,1,0,1.3
-meat,m_37,Biologische rundersoepballetjes,275g,3.31,1,0,1.52
-meat,m_38,Kipblokjes,600g,5.0,0,0,2.34
-meat,m_39,Kipfilet naturel,600g,4.79,0,0,2.24
-meat,m_40,Krokante Kipfiletschnitzel,250g,3.49,0,0,1.59
-meat,m_41,Kipfilet,2st,3.25,0,0,1.44
-bread,b_1,Zaans volkoren heel,1st,1.22,0,0,0.7
-bread,b_2,Tijger bruin heel,1st,1.09,0,0,0.57
-bread,b_3,Zaans volkoren half,1st,0.67,0,0,0.37
-bread,b_4,meergranen volkoren half,1st,1.12,0,0,0.58
-bread,b_5,Walkdorn heel,1st,2.05,0,0,1.17
-bread,b_6,Zaans bruin heel,1st,1.22,0,0,0.66
-bread,b_7,Tijger volkoren half,1st,1.02,0,0,0.59
-bread,b_8,Tijger volkoren heel,1st,1.94,0,0,1.08
-bread,b_9,Mais half,1st,1.12,0,0,0.63
-bread,b_10,Tijger bruin half,1st,0.58,0,0,0.3
-bread,b_11,Volkoren heel,1st,0.99,0,0,0.57
-bread,b_12,Meergranen volkoren heel,1st,2.15,0,0,1.23
-bread,b_13,Tijger wit half,1st,0.58,0,0,0.33
-bread,b_14,Vloerbrood meergranen,1st,2.56,0,0,1.5
-bread,b_15,Vloerbrood volkoren ,1st,2.56,0,0,1.49
-bread,b_16,Casino wit half,1st,0.57,0,0,0.35
-bread,b_17,Tijger wit heel,1st,1.05,0,0,0.61
-bread,b_18,Bruin heel,1st,0.8,0,0,0.46
-bread,b_19,Zaanse sijnder bruin half,1st,0.67,0,0,0.36
-bread,b_20,Boerenvolkoren sesam heel,1st,1.49,0,0,0.79
-bread,b_21,Steiv spelt gesneden,1st,2.77,0,0,1.58
-bread,b_22,Krenten- en rozijnenbrood half,1st,1.69,0,0,0.94
-bread,b_23,Zaans volkoren ,1st,1.22,0,0,0.65
-bread,b_24,Atkins laag koolhydraat volkoren brood half,1st,2.25,0,0,1.29
-bread,b_25,Bolletje Fries roggebrood,500g,1.09,0,0,0.61
-bread,b_26,Kaneelbroodjes,2st,1.99,0,0,1.2
-bread,b_27,Biologisch Vloerbrood meerzaden heel,1st,2.77,1,0,1.66
-bread,b_28,Basic meergranen heel,1st,0.55,0,1,0.31
-bread,b_29,Basic wit heel,1st,0.47,0,1,0.26
-bread,b_30,Basic casino half,1st,0.52,0,1,0.27
-bread,b_31,Basic volkoren heel,1st,1.02,0,1,0.55
-bread,b_32,Biologisch volkoren heel,1st,2.34,1,0,1.26
-bread,b_33,Biologisch bruin heel,1st,2.12,1,0,1.17
-bread,b_34,Glutenvrij bruin,1st,3.07,0,0,1.79
-bread,b_35,Muesli-notenbrood,1st,1.99,0,0,1.13
-bread,b_36,Basic roggebrood,1st,0.49,0,1,0.25
-bread,b_37,Melkbroodjes,2st,1.79,0,0,0.99
-bread,b_38,Krenten rozijnenwegge,1st,1.99,0,0,1.13
-bread,b_39,Amandelkrans,1st,3.49,0,0,1.83
-bread,b_40,Roomboter chocolade brood,1st,2.68,0,0,1.52
-bread,b_41,Chinois brioche,1st,2.59,0,0,1.46
-snack,s_1,Vanille muffins (vers),1st,3.07,0,0,1.67
-snack,s_2,Basic chocolate chip cookies,1st,0.75,0,1,0.44
-snack,s_3,Oreo,1st,1.29,0,0,0.84
-snack,s_4,Bakkersspeculaas,1st,0.81,0,1,0.51
-snack,s_5,Eierkoeken,4st,1.79,0,0,1.01
-snack,s_6,Ribbelchips naturel,250g,0.99,0,1,0.59
-snack,s_7,Ribbelchips paprika,250g,0.99,0,1,0.59
-snack,s_8,Doritos sweet chili,185g,1.59,0,0,0.94
+product_id,std_sales_price,purchase_price
+v_1,0.69,0.35
+v_2,0.75,0.37
+v_3,1.99,0.89
+v_4,1.79,0.81
+v_5,0.99,0.47
+v_6,1.59,0.81
+v_7,0.89,0.39
+v_8,0.65,0.28
+v_9,0.89,0.43
+v_10,0.97,0.48
+v_11,0.89,0.4
+v_12,1.69,0.8
+v_13,2.39,1.19
+v_14,0.69,0.32
+v_15,2.5,1.22
+v_16,0.92,0.44
+v_17,0.85,0.41
+v_18,1.29,0.63
+v_19,1.59,0.74
+v_20,1.79,0.8
+v_21,1.29,0.67
+v_22,0.99,0.46
+v_23,1.49,0.72
+v_24,1,0.44
+v_25,1.5,0.74
+v_26,2.09,0.98
+v_27,2.49,1.17
+v_28,0.75,0.35
+v_29,1.05,0.47
+v_30,2.39,1.2
+v_31,1.39,0.68
+v_32,1.99,0.98
+v_33,2.99,1.57
+v_34,0.99,0.5
+v_35,1.99,1
+f_1,1.99,1.01
+f_2,1.19,0.65
+f_3,1.95,1.02
+f_4,1.79,0.98
+f_5,1.99,1.14
+f_6,2.69,1.55
+f_7,2.19,1.16
+f_8,2.49,1.26
+f_9,1.79,0.94
+f_10,1.09,0.54
+f_11,1.49,0.9
+f_12,1.69,1
+f_13,2.45,1.36
+f_14,4.25,2.4
+f_15,4.99,2.67
+f_16,2.09,1.2
+f_17,2.99,1.74
+f_18,2.99,1.63
+f_19,1.29,0.75
+f_20,1.49,0.88
+f_21,3.19,1.69
+f_22,2.55,1.61
+f_23,2.89,1.54
+f_24,1.01,0.58
+f_25,1.94,1.14
+f_26,2.99,1.52
+f_27,2.69,1.38
+f_28,2.59,1.47
+f_29,3.49,1.82
+f_30,2.5,1.44
+m_1,3.69,1.75
+m_2,2.39,1.09
+m_3,3.39,1.46
+m_4,1.29,0.58
+m_5,3.09,1.52
+m_6,2.69,1.25
+m_7,2.29,1
+m_8,1.99,0.89
+m_9,2.39,1.09
+m_10,1.99,0.87
+m_11,2.99,1.24
+m_12,3.79,1.88
+m_13,2.49,1.16
+m_14,3.39,1.59
+m_15,2.69,1.22
+m_16,1.08,0.49
+m_17,3.19,1.4
+m_18,2.49,1.09
+m_19,5.89,2.61
+m_20,4.95,2.29
+m_21,2.79,1.3
+m_22,2.47,1.1
+m_23,1.79,0.8
+m_24,3.19,1.53
+m_25,5.19,2.24
+m_26,1.29,0.63
+m_27,2.39,1.07
+m_28,2.6,1.23
+m_29,3.19,1.52
+m_30,2.99,1.33
+m_31,3.39,1.51
+m_32,2.49,1.14
+m_33,3.99,1.69
+m_34,2.16,0.92
+m_35,5.14,2.16
+m_36,2.89,1.3
+m_37,3.31,1.52
+m_38,5,2.34
+m_39,4.79,2.24
+m_40,3.49,1.59
+m_41,3.25,1.44
+b_1,1.22,0.7
+b_2,1.09,0.57
+b_3,0.67,0.37
+b_4,1.12,0.58
+b_5,2.05,1.17
+b_6,1.22,0.66
+b_7,1.02,0.59
+b_8,1.94,1.08
+b_9,1.12,0.63
+b_10,0.58,0.3
+b_11,0.99,0.57
+b_12,2.15,1.23
+b_13,0.58,0.33
+b_14,2.56,1.5
+b_15,2.56,1.49
+b_16,0.57,0.35
+b_17,1.05,0.61
+b_18,0.8,0.46
+b_19,0.67,0.36
+b_20,1.49,0.79
+b_21,2.77,1.58
+b_22,1.69,0.94
+b_23,1.22,0.65
+b_24,2.25,1.29
+b_25,1.09,0.61
+b_26,1.99,1.2
+b_27,2.77,1.66
+b_28,0.55,0.31
+b_29,0.47,0.26
+b_30,0.52,0.27
+b_31,1.02,0.55
+b_32,2.34,1.26
+b_33,2.12,1.17
+b_34,3.07,1.79
+b_35,1.99,1.13
+b_36,0.49,0.25
+b_37,1.79,0.99
+b_38,1.99,1.13
+b_39,3.49,1.83
+b_40,2.68,1.52
+b_41,2.59,1.46
+s_1,3.07,1.67
+s_2,0.75,0.44
+s_3,1.29,0.84
+s_4,0.81,0.51
+s_5,1.79,1.01
+s_6,0.99,0.59
+s_7,0.99,0.59
+s_8,1.59,0.94
