@@ -15,7 +15,7 @@ promotion.csv contains information about the promotions that took place:
 - product_id: The product that was in discount
 - discount: Discount percentage relevant for this product
 
-products_price.csv contains information about the products
+products_priced.csv contains information about the products
 - category: The overarching group this product falls in
 - product_id: The product identifier
 - description: Short description of the product
