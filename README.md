@@ -2,7 +2,7 @@
 This repo is intended for the 2019-2020 course Data Challenge 2. 
 
 # Data description
-There are three tables in the `data` directory.
+There are four tables in the `data` directory.
 
 transactions.csv contains all the transaction data. There are three columns:
 - week: The week number in which the transaction took place
@@ -23,3 +23,8 @@ products_priced.csv contains information about the products
 - bio: 1 if the product is a biological product, 0 else
 - basic: 1 if the product is a basic (generics; no-name) good, 0 else
 - purchase_price: The price we purchase the product for.
+
+stock_level.csv contains three columns:
+- week: Week number. Week 0 means the last week of previous year
+- product_id: The product identifier
+- stock: Number of items in stock for a given week, measured at the end of the week. 
